@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mallvinn</h1>
+<h1 align="center">Hi 👋, I'm malllvinnn</h1>
 <h3 align="center">A passionate frontend/backend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **ExpressJS, App Brewery by Dr.Angela Yu, Kelas Fullstack by Codepolitan**
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/malllvinnn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malllvinnn_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad (d) malfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad (d) malfin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad malfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad malfin" height="30" width="40" /></a>
 <a href="https://fb.com/fynn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fynn" height="30" width="40" /></a>
 <a href="https://instagram.com/malllvinnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malllvinnn" height="30" width="40" /></a>
 </p>
