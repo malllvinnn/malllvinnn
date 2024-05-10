@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malfin</h1>
+<h1 align="center">Hi 👋, I'm mallvinn</h1>
 <h3 align="center">A passionate frontend/backend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **ExpressJS, App Brewery by Dr.Angela Yu, Kelas Fullstack by Codepolitan**
