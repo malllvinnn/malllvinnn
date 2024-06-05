@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋</h1>
 <h3 align="center">A passionate frontend/backend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **ExpressJS, App Brewery by Dr.Angela Yu, Kelas Fullstack by Codepolitan**
+- 🌱 I’m currently learning **ExpressJS, App Brewery by Dr.Angela Yu, Kelas Fullstack by Codepolitan, Fastcampus Clone Netflix Web Dengan MERN Stack JS**
 
 - 💬 Ask me about **ReactJS**
 
