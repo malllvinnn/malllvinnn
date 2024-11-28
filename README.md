@@ -3,18 +3,14 @@
 
 
 ## 🚀 About Me
-I am a Frontend Developer with a basic understanding of backend technologies. While my main expertise lies in creating engaging user interfaces, I also have some experience in server-side development, allowing me to contribute effectively to both frontend and backend aspects of web applications.
+I’m a passionate Backend Developer focused on building efficient, secure, and scalable systems.
 
 
-## 🛠 Skills
-### Frontend
-TailwindCSS, Material UI, ReactJS
-### Backend
-NodeJS, ExpressJS
-### Database
-MongoDB, MySQL
-### More
-Docker, Linux
+## 🛠 Tech Stack
+- **Frontend**: TailwindCSS, Material UI, ReactJS
+- **Backend**: NodeJS, ExpressJS
+- **Database**: MongoDB, MySQL
+- **More**: Docker, Linux
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hi-malfin.vercel.app/)
