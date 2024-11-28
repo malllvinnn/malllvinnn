@@ -7,8 +7,14 @@ I am a Frontend Developer with a basic understanding of backend technologies. Wh
 
 
 ## 🛠 Skills
-TailwindCSS, Material UI, NodeJS, ReactJS, ExpressJS, MongoDB
-
+### Frontend
+TailwindCSS, Material UI, ReactJS
+### Backend
+NodeJS, ExpressJS
+### Database
+MongoDB, MySQL
+### More
+Docker, Linux
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hi-malfin.vercel.app/)
