@@ -20,7 +20,7 @@ I’m a passionate Backend Developer focused on building efficient, secure, and 
 
 
 ## Personal Stuff
-🎓 I am currently a 7th-semester student.
+🎓 I am currently a 8th-semester student.
 
 👨🏼‍💻 Open for freelance projects, particularly slicing or converting designs into websites.
 
