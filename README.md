@@ -7,9 +7,9 @@ I’m a passionate Backend Developer focused on building efficient, secure, and 
 
 
 ## 🛠 Tech Stack
-- **Language**: Javascript(Medium Level), SQL
+- **Language**: Javascript/Typescript(Medium Level), SQL
 - **Frontend**: TailwindCSS, Material UI, ReactJS
-- **Backend**: NodeJS, ExpressJS, JWT
+- **Backend**: NodeJS, ExpressJS, JWT, NestJS
 - **Database**: MongoDB, MySQL, PostgreSQL
 - **More**: Docker, Linux
 
