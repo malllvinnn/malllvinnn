@@ -7,11 +7,11 @@ I’m a passionate Backend Developer focused on building efficient, secure, and 
 
 
 ## 🛠 Tech Stack
-- **Language**: Javascript/Typescript(Medium Level), SQL
+- **Language**: Javascript/Typescript, SQL
 - **Frontend**: TailwindCSS, Material UI, ReactJS
-- **Backend**: NodeJS, ExpressJS, JWT, NestJS
+- **Backend**: NodeJS, ExpressJS, JWT
 - **Database**: MySQL
-- **More**: Docker, Linux
+- **More**: Docker
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hi-malfin.vercel.app/)
