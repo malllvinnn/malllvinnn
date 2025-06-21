@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I’m a passionate Backend Developer focused on building efficient, secure, and scalable systems.
+I’m a passionate Fullstack Developer focused on building efficient, secure, and scalable systems.
 
 
 ## 🛠 Tech Stack
