@@ -8,8 +8,8 @@ I’m a passionate Fullstack Developer focused on building efficient, secure, an
 
 ## 🛠 Tech Stack
 - **Language**: Javascript/Typescript, SQL
-- **Frontend**: TailwindCSS, Material UI, ReactJS
-- **Backend**: NodeJS, ExpressJS, JWT
+- **Frontend**: TailwindCSS, ReactJS
+- **Backend**: NodeJS, ExpressJS, Zod Validation, Prisma ORM
 - **Database**: MySQL
 - **More**: Docker
 
