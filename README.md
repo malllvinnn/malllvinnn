@@ -7,11 +7,11 @@ I’m a passionate Fullstack Developer focused on building efficient, secure, an
 
 
 ## 🛠 Tech Stack
-- **Language**: Javascript/Typescript, SQL
-- **Frontend**: TailwindCSS, ReactJS
-- **Backend**: NodeJS, ExpressJS, Zod Validation, Prisma ORM
-- **Database**: MySQL
-- **More**: Docker
+- **Language**: `Javascript/Typescript`, `SQL`
+- **Frontend**: `ReactJS`, `TailwindCSS`, `Shadcn`
+- **Backend**: `NodeJS`, `ExpressJS`, `Prisma ORM`
+- **Database**: `MySQL`
+- **More**: `Docker`, `VPS`, `Notion`
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hi-malfin.vercel.app/)
@@ -21,10 +21,10 @@ I’m a passionate Fullstack Developer focused on building efficient, secure, an
 
 
 ## Personal Stuff
-🎓 I am currently a 8th-semester student.
+🎓 I'm an Informatics Engineering Graduate..
 
 👨🏼‍💻 Open for freelance projects, particularly slicing or converting designs into websites.
 
 💻 All of my projects are available at [My Portfolio](https://hi-malfin.vercel.app/).
 
-📫 How to reach me: [@malllvinnn_](https://x.com/malllvinnn_) or email me at malvin.arkade7@gmail.com.
+📫 How to reach me: [@malllvinnn_](https://x.com/malllvinnn_) or email me at `malvin.arkade7@gmail.com`.
