@@ -8,7 +8,7 @@ I’m a passionate Fullstack Developer focused on building efficient, secure, an
 
 ## 🛠 Tech Stack
 - **Language**: `Javascript/Typescript`, `SQL`
-- **Frontend**: `ReactJS`, `TailwindCSS`, `Shadcn`
+- **Frontend**: `ReactJS`, `Tanstack Query`, `Zustand`, `TailwindCSS`, `Shadcn`
 - **Backend**: `NodeJS`, `ExpressJS`, `Prisma ORM`
 - **Database**: `MySQL`
 - **More**: `Docker`, `VPS`, `Notion`
