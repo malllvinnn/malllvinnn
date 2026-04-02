@@ -9,9 +9,9 @@ I’m a passionate Fullstack Developer focused on building efficient, secure, an
 ## 🛠 Tech Stack
 - **Language**: `Javascript/Typescript`, `SQL`
 - **Frontend**: `ReactJS`, `Tanstack Query`, `Zustand`, `TailwindCSS`, `Shadcn`
-- **Backend**: `NodeJS`, `ExpressJS`, `Prisma ORM`
+- **Backend**: `NodeJS`, `ExpressJS`, `Prisma ORM`, `Jest`
 - **Database**: `MySQL`
-- **More**: `Docker`, `VPS`, `Notion`
+- **More**: `Unix`, `Docker`, `VPS`, `Notion`
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hi-malfin.vercel.app/)
