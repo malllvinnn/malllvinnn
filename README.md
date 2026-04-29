@@ -25,6 +25,6 @@ I’m a passionate Fullstack Developer focused on building efficient, secure, an
 
 👨🏼‍💻 Open for freelance projects, particularly slicing or converting designs into websites.
 
-💻 All of my projects are available at [My Portfolio](https://hi-malfin.vercel.app/).
+💻 All of my projects are available at My Portfolio: [malfin.xyz](https://malfin.xyz).
 
 📫 How to reach me: [@malllvinnn_](https://x.com/malllvinnn_) or email me at `malvin.arkade7@gmail.com`.
